@@ -12,8 +12,8 @@
         <script defer src="{{ mix('js/fontawesome.min.js', 'assets/build') }}"></script>
     </head>
     <body class="text-gray-200 font-sans antialiased bg-gray-900">
-        <header class="font-bold bg-gray-800 p-2">
-            <nav class="w-full px-8 m-auto flex justify-between content-center">
+        <header class="font-bold p-2">
+            <nav class="w-full px-4 m-auto flex justify-between content-center">
                 <h2>{!! $page->title !!}</h2>
                 <ul class="flex content-center">
                     {{-- <li class="px-6"><a href="{!! url('/uses') !!}">Uses</a></li> --}}
