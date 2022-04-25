@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => '',
+    'baseUrl' => 'markwoodward.com.au',
     'title' => 'Mark Woodward',
     'description' => 'Full-stack developer, designer and illustrator',
     'collections' => [],
