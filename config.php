@@ -61,6 +61,14 @@ return [
                     'name'  => 'iTerm2',
                     'url'   => 'https://iterm2.com'
                 ],
+                [
+                    'name'  => 'OhMyZsh',
+                    'url'   => 'https://ohmyz.sh'
+                ],
+                [
+                    'name'  => 'tmux',
+                    'url'   => 'https://github.com/tmux/tmux/wiki'
+                ],
             ],
             'Design/Prototyping'   => [
                 [
