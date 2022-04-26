@@ -19,6 +19,7 @@
                     <li class="px-6"><a href="{!! url('/uses') !!}">Uses</a></li>
                     <li class="px-2"><a href="https://www.twitter.com/kid_genius" text="@kid_genius on Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
                     <li class="px-2"><a href="https://www.instagram.com/kilroyj" title="@kilroyj on Instragram" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li class="px-2"><a href="https://www.linkedin.com/in/mark-e-woodward/" title="Mark Woodward on LinkedIn" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
                     <li class="px-2"><a href="https://github.com/mrkwdwrd" title="mrkwdwrd on GitHub" target="_blank"><i class="fa-brands fa-github"></i></a></li>
                 </ul>
             </nav>
