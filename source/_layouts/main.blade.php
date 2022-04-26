@@ -14,7 +14,7 @@
     <body class="text-gray-200 font-sans antialiased bg-gray-900">
         <header class="font-bold p-2">
             <nav class="w-full m-auto flex justify-between content-center">
-                <h2 class="px-2">{!! $page->title !!}</h2>
+                <h2 class="px-2"><a href="{{ url('/') }}" title="{!! $page->title !!}">{!! $page->title !!}</a></h2>
                 <ul class="flex content-center">
                     <li class="px-6"><a href="{!! url('/uses') !!}">Uses</a></li>
                     <li class="px-2"><a href="https://www.twitter.com/kid_genius" text="@kid_genius on Twitter" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>

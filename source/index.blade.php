@@ -6,8 +6,8 @@
 
     <h1 class="text-3xl font-bold mb-4">Hello, I'm Mark.</h1>
 
-    <p class="mb-4">I'm a web developer from <a href="https://en.wikipedia.org/wiki/Melbourne" title="" target="_blank" class="text-purple-400">Naarm (Melbourne), Australia</a> where I work primarily at
-        <a href="https://digitalbridge.com.au" title="" target="_blank" class="text-purple-400">Digital Bridge</a>.
+    <p class="mb-4">I'm a web developer from <a href="https://en.wikipedia.org/wiki/Melbourne" title="Melbourne" target="_blank" class="text-purple-400">Naarm (Melbourne), Australia</a> where I work primarily at
+        <a href="https://digitalbridge.com.au" title="Digital Bridge" target="_blank" class="text-purple-400">Digital Bridge</a>.
         I come from an extensive design background and freelance as a graphic designer and illustrator.</p>
 
     <p class="mb-4">My specialties are <a href="https://laravel.com/" title="Laravel - The PHP Framework for Web artisans" target="_blank" class="text-purple-400">Laravel</a>,
