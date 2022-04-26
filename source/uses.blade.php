@@ -2,7 +2,7 @@
 
 @section('body')
 <div class="p-8 w-full max-w-3xl m-auto text-center font-semibold">
-    <h1>Things I use/work with (not exhaustive)</h1>
+    <h1 class="text-3xl font-bold mb-4">Things I use/work with (not exhaustive)</h1>
 
     <div class="text-left">
         <h4 class="text-xl text-gray-600">Technologies</h4>
